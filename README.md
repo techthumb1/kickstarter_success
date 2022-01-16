@@ -16,7 +16,6 @@ The purpose of this project is to create an application that will determine the 
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
 - [TensorFlow](https://www.tensorflow.org/)
-- [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 - [Flask/FastAPI](https://fastapi.tiangolo.com/)
 
 
